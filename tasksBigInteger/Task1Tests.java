@@ -9,11 +9,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Task1Tests {
-    // Assigment:
-    // 4. Podaj, ile liczb w pliku liczby.txt jest podzielnych przez 2 oraz ile liczb jest podzielnych przez 8.(endWidth)
-    //5. Znajdź najmniejszą i największą liczbę w pliku liczby.txt.
-    // Jako odpowiedź podaj numery wierszy, w których się one znajdują.
-
 
     public static int counter2 = 0;
     public static int counter8 = 0;
@@ -69,16 +64,5 @@ public class Task1Tests {
             minBi = (bi.min(minBi));
         }
         System.out.println("The minimum number is " + minBi);
-
-        String maxStr =maxBi.toString();
-        String minStr =minBi.toString();
-        for(String it: listAllItems ){
-            if(maxStr == it){
-                System.out.println(it);
-            }
-            if (minStr == it) {
-                System.out.println(it);
-            }
-        }
     }
 }
