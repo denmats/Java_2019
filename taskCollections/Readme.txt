@@ -1,6 +1,8 @@
 Task1:
-Napisz program, który wczyta od uzytkownika dane z klawiatury do momentu wpisania slowa “koniec”, które nie jest elementem zbioru/listy/tablicy czy innej struktury. Program na koncu ma wyswietlic liczbe wprowadzonych elementów jak i liczbe elementów unikalnych (wystepujacych w strukturze przechowujacej elementy tylko jeden raz).
+Napisz program, ktï¿½ry wczyta od uzytkownika dane z klawiatury do momentu wpisania slowa ï¿½koniecï¿½, ktï¿½re nie jest elementem zbioru/listy/tablicy czy innej struktury. Program na koncu ma wyswietlic liczbe wprowadzonych elementï¿½w jak i liczbe elementï¿½w unikalnych (wystepujacych w strukturze przechowujacej elementy tylko jeden raz).
 Task2:
-W pliku NAPIS.TXT, w oddzielnych wierszach, znajduje sie 1 000 napisów o dlugosciach od 2 do 25 znaków. Wypisz napisy z pliku NAPIS.TXT, które wystepuja w nim wiecej niz jeden raz (kazdy taki napis wypisz tylko raz). [kolekcje]
+W pliku NAPIS.TXT, w oddzielnych wierszach, znajduje sie 1 000 napisï¿½w o dlugosciach od 2 do 25 znakï¿½w. Wypisz napisy z pliku NAPIS.TXT, ktï¿½re wystepuja w nim wiecej niz jeden raz (kazdy taki napis wypisz tylko raz). [kolekcje]
 Task3:
-Zmodyfikuj zadanie 1 tak by w sytuacji gdy dany element juz jest w zbiorze pojawil sie komunikat “juz jest, czy mam dodac ?” i w zaleznosci od wyboru uzytkownika zostala dokonana odpowiednia akcja.
+Zmodyfikuj zadanie 1 tak by w sytuacji gdy dany element juz jest w zbiorze pojawil sie komunikat ï¿½juz jest, czy mam dodac ?ï¿½ i w zaleznosci od wyboru uzytkownika zostala dokonana odpowiednia akcja.
+Task4:
+Napisz program, ktÃ³ry pobiera od uÅ¼ytkownika 6 liczb z 49. Program ma wziÄ…Ä‡ pod  uwagÄ™ zestaw unikalnych szeÅ›ciu liczb.  NastÄ™pnie program dokonuje losowaÅ„ do czasu gdy wylosuje wybrane przez uÅ¼ytkownika zestawienie liczb. Program podaje po ilu lata i ilu dniach uÅ¼ytkownik wylosowaÅ‚by liczby (np. potrzeba x lat i x dni). ZakÅ‚adamy Å¼e losowania odbywajÄ… siÄ™ codziennie (jedno losowanie na jeden dzieÅ„).
